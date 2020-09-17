@@ -39,7 +39,7 @@ public:
 			if (m.find(nums[i]) != m.end()) {
 				return{ m[nums[i]],i };
 			}
-            m[target - nums[i]] = i;
+            		m[target - nums[i]] = i;
 		}
         return {};
 	}
