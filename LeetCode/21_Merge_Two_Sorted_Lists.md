@@ -43,8 +43,8 @@ public:
 };
 ~~~
 
-`Runtime: 12 ms, faster than 51.44% of C++ online submissions for Merge Two Sorted Lists.<br>
-Memory Usage: 15.3 MB, less than 90.96% of C++ online submissions for Merge Two Sorted Lists.`
+`Runtime: 12 ms, faster than 51.44% of C++ online submissions for Merge Two Sorted Lists.` <br>
+`Memory Usage: 15.3 MB, less than 90.96% of C++ online submissions for Merge Two Sorted Lists.`
 
 sorted 된 두 개의 리스트를 merge 하는 문제
 sorted 안된 경우도 있는 줄 알고 이상하게 헤매다 품 ㅜ 문제를 잘 읽자...
