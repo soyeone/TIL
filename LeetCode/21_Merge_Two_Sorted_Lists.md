@@ -43,7 +43,7 @@ public:
 };
 ~~~
 
-`Runtime: 12 ms, faster than 51.44% of C++ online submissions for Merge Two Sorted Lists.
+`Runtime: 12 ms, faster than 51.44% of C++ online submissions for Merge Two Sorted Lists.<br>
 Memory Usage: 15.3 MB, less than 90.96% of C++ online submissions for Merge Two Sorted Lists.`
 
 sorted 된 두 개의 리스트를 merge 하는 문제
